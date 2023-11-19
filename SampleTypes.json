@@ -1,0 +1,41 @@
+[
+    {
+        "instr": "drums",
+        "types": [
+            "kick",
+            "clap",
+            "snare",
+            "hat",
+            "tom"
+        ]
+    },
+    {
+        "instr": "fx",
+        "types": [
+            "fx",
+            "atmos",
+            "vocal",
+            "vox"
+        ]
+    },
+    {
+        "instr": "bass",
+        "types": [
+            "bass",
+            "808",
+            "reese"
+        ]
+    },
+    {
+        "instr": "perc",
+        "types": [
+            "perc"
+        ]
+    },
+    {
+        "instr": "loop",
+        "types": [
+            "loop"
+        ]
+    }
+]

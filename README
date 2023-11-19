@@ -1,0 +1,14 @@
+# About
+Simple sorting script for music producers that are lazy. Will recursively copy all the wav & mp3 files into a chosen structure
+
+Made for myself in order to sort + 600 unsorted samples into specific folders (drums, bass, percs, ...)
+
+The "SampleTypes.json" file's structure can be modified as wished
+
+# Installation & execution
+1. run `pip install -r requirements.txt` to install requirements (only 1 library, bc I'm lazy)
+2. run the command `python.exe ./main.py` then paste the chosen dst & src folders. If ur lazy, you can also run `python.exe ./main.py [SourcePath] [DstPath]`
+3. Example for lazy people : `python.exe ./main.py c:\tmp\unsortedsamples\ c:\tmp\sortedsamples`
+
+# Log & errors
+Logs are stored in a file that won't exceed 5 MB. If you are afraid the script has done something wrong, check that file.
